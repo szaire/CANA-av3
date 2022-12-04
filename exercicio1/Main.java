@@ -6,5 +6,6 @@ public class Main {
         int[] arr2 = new int[]{2 ,5, 4, 1, 3, 6, 9, 7, 8};
 
         BubbleSortAlgorithm.bubbleSort(arr2);
+        MergeSortAlgorithm.mergeSort(arr2);
     }
 }
